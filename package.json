@@ -9,6 +9,10 @@
     "hexo"
   ],
   "author": "Hozen",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hooozen/hexo-fontawesome-icons"
+  },
   "license": "MIT",
   "peerDependencies": {
     "hexo": "6.x"
