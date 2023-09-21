@@ -1,0 +1,24 @@
+{
+  "name": "hexo-fontawesome-icons",
+  "version": "0.0.1",
+  "description": "A utility function which helps to inline fontawesome SVG files.",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "hexo"
+  ],
+  "author": "Hozen",
+  "license": "MIT",
+  "peerDependencies": {
+    "hexo": "6.x"
+  },
+  "optionalDependencies": {
+    "@fortawesome/free-brands-svg-icons": "^6.4.2",
+    "@fortawesome/free-regular-svg-icons": "^6.4.2",
+    "@fortawesome/free-solid-svg-icons": "^6.4.2"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.4.2"
+  }
+}
