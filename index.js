@@ -40,8 +40,6 @@ function faInline(iconName, opts) {
   return icon.html;
 }
 
-console.log('hexo-fonawesome-icons');
-
 hexo.extend.helper.register('fa_css', faCss);
 hexo.extend.helper.register('fa_inline', faInline);
 
