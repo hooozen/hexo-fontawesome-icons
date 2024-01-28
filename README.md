@@ -1,9 +1,6 @@
 # hexo-fontawesome-icons
 
-![NPM Downloads](https://img.shields.io/npm/dm/hexo-fontawesome-icons)
-
-<a href="https://www.npmjs.com/package/hexo-fontawesome-icons"><img alt="" src="https://img.shields.io/npm/dm/hexo-fontawesome-icons
-"></a>
+<a target="_blank" href="https://www.npmjs.com/package/hexo-fontawesome-icons"><img alt="" src="https://img.shields.io/npm/dm/hexo-fontawesome-icons"></a>
 
 A plugin for static pages generator [Hexo](https://github.com/hexojs/hexo).
 A utility function which helps to inline fontawesome SVG files.
